@@ -1,6 +1,10 @@
 ## VC API Test Suite
 
-[![Implementation Interoperability Report](https://github.com/w3c-ccg/vc-api-test-suite/actions/workflows/cd.yml/badge.svg)](https://github.com/w3c-ccg/vc-api-test-suite/actions/workflows/cd.yml)
+> [!WARNING]
+> This repo has been replaced. Please see the
+> [VC API Issuer](https://github.com/w3c-ccg/vc-api-issuer-test-suite) and
+> [VC API Verifier](https://github.com/w3c-ccg/vc-api-verifier-test-suite) test
+> suites for more information.
 
 The VC API test suite repository contains tests for a standard API specification for constructing and verifying objects which conform to the [Verifiable Credential Data Model](https://www.w3.org/TR/vc-data-model/) specification, along with documentation, integration and compatability tests, and related assets for the test and integration process.
 
